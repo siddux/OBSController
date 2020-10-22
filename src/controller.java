@@ -1,4 +1,4 @@
-
+/*
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.awt.AWTException;
@@ -6,7 +6,7 @@ import java.awt.AWTException;
 import jrxtx;
 
 
-public class controller {
+public class Controller {
 
 	public static void main (String args[]) {
 
@@ -53,3 +53,4 @@ public class controller {
         }
 	}
 }
+*/
